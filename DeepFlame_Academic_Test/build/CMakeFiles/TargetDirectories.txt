@@ -1,3 +1,0 @@
-/root/1230/DeepFlame_Academic/build/CMakeFiles/dfacademic.dir
-/root/1230/DeepFlame_Academic/build/CMakeFiles/edit_cache.dir
-/root/1230/DeepFlame_Academic/build/CMakeFiles/rebuild_cache.dir
